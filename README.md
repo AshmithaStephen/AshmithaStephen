@@ -1,18 +1,74 @@
-# 💫 About Me:
-I am computer science engineering student. I’m currently working on Building innovative projects in AI & software development, including real-world problem-solving systems.<br>I’m looking to collaborate on AI/ML projects, software development, and impactful tech solutions.
+<h1 align="center">Hi 👋, I'm Ashmitha Stephen</h1>
+<h3 align="center">🚀 Computer Science Engineering Student | AI & Software Developer</h3>
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashmithastephen67@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshmithaStephen&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AshmithaStephen&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshmithaStephen&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Projects;Software+Developer;Problem+Solver;Always+Learning+New+Things" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AshmithaStephen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me
+- 🎓 Computer Science Engineering Student  
+- 🤖 Building **innovative AI & software projects**  
+- 💡 Passionate about **real-world problem-solving systems**  
+- 🤝 Open to collaborations in **AI/ML & impactful tech solutions**  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Current Focus
+- 🔍 Developing AI-based real-world applications  
+- 💻 Strengthening software development skills  
+- 📈 Practicing problem-solving daily  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🏆 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+💡 I’m looking to collaborate on:
+- 🤖 AI / Machine Learning Projects  
+- 🌐 Software Development  
+- 🚀 Innovative Tech Solutions  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Motto
+> *"Build. Break. Learn. Repeat."*
+
+---
+
+<p align="center">
+  ⭐️ From <b>[Your Name]</b>
+</p>
