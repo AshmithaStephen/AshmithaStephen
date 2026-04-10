@@ -1,31 +1,40 @@
 <h1 align="center">Hi 👋, I'm Ashmitha Stephen</h1>
-<h3 align="center">🚀 Computer Science Engineering Student </h3>
+<h3 align="center">🎓 Computer Science Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Projects;Software+Developer;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning+Computer+Science;Exploring+AI+Concepts;Building+Projects;Improving+Everyday" />
 </p>
 
 ---
 
 ## 🌟 About Me
 - 🎓 Computer Science Engineering Student  
-- 🤖 Building **innovative AI & software projects**  
-- 💡 Passionate about **real-world problem-solving systems**  
-- 🤝 Open to collaborations in **AI/ML & impactful tech solutions**  
+- 🤖 Exploring **AI concepts & software development**  
+- 💡 Interested in **real-world problem-solving systems**  
+- 📈 Currently improving coding & technical skills  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
-- 🔍 Developing AI-based real-world applications  
-- 💻 Strengthening software development skills  
-- 📈 Practicing problem-solving daily  
+- 🔍 Learning AI fundamentals  
+- 💻 Practicing programming & problem-solving  
+- 📚 Building small projects to improve skills  
+
+---
+
+## 🧠 Core Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Strong-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-Strong-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Basic-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ---
 
@@ -39,16 +48,16 @@
 
 ## 🏆 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=3" />
 </p>
 
 ---
 
 ## 🤝 Let's Collaborate
-💡 I’m looking to collaborate on:
-- 🤖 AI / Machine Learning Projects  
-- 🌐 Software Development  
-- 🚀 Innovative Tech Solutions  
+💡 I’m open to:
+- 🤖 Beginner-friendly AI / ML projects  
+- 💻 Software development learning projects  
+- 🚀 Collaborative student projects  
 
 ---
 
@@ -65,10 +74,7 @@
 ---
 
 ## ✨ Motto
-> *"Build. Break. Learn. Repeat."*
+> *"Build. Learn. Improve. Repeat."*
 
 ---
 
-<p align="center">
-  ⭐️ From <b>[Your Name]</b>
-</p>
