@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashmitha Stephen</h1>
-<h3 align="center">🚀 Computer Science Engineering Student | AI & Software Developer</h3>
+<h3 align="center">🚀 Computer Science Engineering Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Projects;Software+Developer;Problem+Solver;Always+Learning+New+Things" />
@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode" />
 </p>
 
 ---
