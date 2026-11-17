@@ -71,22 +71,23 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshmithaStephen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmithaStephen&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=AshmithaStephen&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AshmithaStephen&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshmithaStephen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AshmithaStephen&theme=tokyonight&hide_border=true" />
 </p>
 
+
 ---
+
 
 ## 📈 Contribution Graph
 
