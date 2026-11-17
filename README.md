@@ -1,80 +1,118 @@
+
+<!-- ========== HEADER ========== -->
+
 <h1 align="center">Hi 👋, I'm Ashmitha Stephen</h1>
-<h3 align="center">🎓 Computer Science Engineering Student</h3>
+
+<h3 align="center">
+  Aspiring Software Developer | AI & ML Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning+Computer+Science;Exploring+AI+Concepts;Building+Projects;Improving+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+about+Technology;Exploring+AI+%26+Machine+Learning;Building+My+Problem+Solving+Skills;Learning+Something+New+Every+Day" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshmithaStephen&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-## 🌟 About Me
-- 🎓 Computer Science Engineering Student  
-- 🤖 Exploring **AI concepts & software development**  
-- 💡 Interested in **real-world problem-solving systems**  
-- 📈 Currently improving coding & technical skills  
+## 💫 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Software Development and Artificial Intelligence
+- 🧠 Exploring Machine Learning, Data Science and App Development
+- 🚀 Passionate about learning new technologies and solving problems
+- 🌱 Currently strengthening my programming and computer science fundamentals
+- 🎯 Goal: Become a skilled Software Developer and AI Engineer
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode" />
+## 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Technologies I'm Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,mysql,linux,docker,aws" />
+</p>
+
+### Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Database Management Systems
+- Computer Networks
+- Software Engineering
+
+---
+
+## 🧠 Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Current Focus
-- 🔍 Learning AI fundamentals  
-- 💻 Practicing programming & problem-solving  
-- 📚 Building small projects to improve skills  
+## 📊 GitHub Statistics
 
----
-
-## 🧠 Core Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Strong-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-Strong-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Basic-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshmithaStephen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmithaStephen&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=AshmithaStephen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🏆 Top Languages
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=3" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshmithaStephen&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 🤝 Let's Collaborate
-💡 I’m open to:
-- 🤖 Beginner-friendly AI / ML projects  
-- 💻 Software development learning projects  
-- 🚀 Collaborative student projects  
+## 🤝 Connect With Me
 
----
-
-## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/a-ashmitha-stephen-120b86316/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ashmithastephen67@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ✨ Motto
-> *"Build. Learn. Improve. Repeat."*
+<h3 align="center">
+  ✨ Learning Today. Building Tomorrow. ✨
+</h3>
 
----
-
+<p align="center">
+  <i>Always curious. Always learning. Always growing.</i>
+</p>
